@@ -99,10 +99,10 @@ const useDataUser = (methods) => {
       const user = await getUserById(id);
       if (user) {
         reset({
-          nombre: user?.nombre,
-          apellido: user?.apellido,
-          correo: user?.correo,
-          especialidad: user?.especialidad,
+          curso: user?.curso,
+          tematica: user?.tematica,
+          instructor: user?.instructor,
+          descripcion: user?.descripcion,
         });
       }
     }

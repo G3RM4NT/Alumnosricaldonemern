@@ -1,8 +1,8 @@
-export const url = "https://retoolapi.dev/GaknEm/crud-example";
+export const url = "https://retoolapi.dev/6QbyzP/cursos-online";
 
 export const optionSelect= [
-    { value: "ds", label: "Desarrollo de Sofware" },
-    { value: "dg", label: "Diseño Grafico" },
-    { value: "auto", label: "Automotriz" },
-    { value: "otro", label: "Otro" },
+    { value: "ds", label: "Curso redes" },
+    { value: "dg", label: "Curso Python" },
+    { value: "auto", label: "Curso Java" },
+    { value: "otro", label: "Curso C++" },
   ];

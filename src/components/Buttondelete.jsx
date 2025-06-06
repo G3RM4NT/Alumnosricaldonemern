@@ -3,7 +3,7 @@ const Buttondelete = ({ type, onClick, text }) => {
       <button
         type={type}
         onClick={onClick}
-        className="bg-pink-500 hover:bg-pink-600 text-white font-semibold py-2 px-4 rounded transition-colors ms-2"
+        className="bg-gray-500 hover:bg-orange-600 text-white font-semibold py-2 px-4 rounded transition-colors ms-2"
       >
         {text}
       </button>
