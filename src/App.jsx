@@ -6,6 +6,7 @@ import NotFound from "./pages/PageNotFound";
 import Users from "./pages/Users";
 import {Toaster} from "react-hot-toast";
 import useFetchUsers from "./hooks/users/useFetchUsers";
+import "./styles.css"
 
 function App() {
   

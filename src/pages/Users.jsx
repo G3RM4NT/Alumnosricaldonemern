@@ -46,7 +46,7 @@ const Users = () => {
             register={register}
             errors={errors}
             className="bg-gray-900 border border-gray-700 focus:border-teal-400 focus:ring-2 focus:ring-teal-400 rounded-lg text-white placeholder-gray-400 transition duration-300"
-            labelClassName="text-white font-semibold mb-2"
+            labelClassName="font-semibold mb-2"
           />
 
           {/* Tematica */}
@@ -58,7 +58,7 @@ const Users = () => {
             register={register}
             errors={errors}
             className="bg-gray-900 border border-gray-700 focus:border-teal-400 focus:ring-2 focus:ring-teal-400 rounded-lg text-white placeholder-gray-400 transition duration-300"
-            labelClassName="text-white font-semibold mb-2"
+            labelClassName="font-semibold mb-2"
           />
 
           {/* Instructor */}
@@ -70,7 +70,7 @@ const Users = () => {
             register={register}
             errors={errors}
             className="bg-gray-900 border border-gray-700 focus:border-teal-400 focus:ring-2 focus:ring-teal-400 rounded-lg text-white placeholder-gray-400 transition duration-300"
-            labelClassName="text-white font-semibold mb-2"
+            labelClassName="font-semibold mb-2"
           />
 
           {/* Curso */}
@@ -81,7 +81,7 @@ const Users = () => {
             register={register}
             errors={errors}
             className="bg-gray-900 border border-gray-700 focus:border-teal-400 focus:ring-2 focus:ring-teal-400 rounded-lg text-white transition duration-300"
-            labelClassName="text-white font-semibold mb-2"
+            labelClassName="font-semibold mb-2"
           />
         </div>
 
